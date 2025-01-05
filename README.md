@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there I am Victor
+I am very interesting to develp new programming skills.
+
 
 <!--
 **VictorR224/VictorR224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
